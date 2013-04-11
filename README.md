@@ -8,3 +8,5 @@ No message body writer has been found for response class List.
 ```
 
 At this stage you should see an error message instead of expected JSON.
+
+This has been fixed as of version 1.6.
